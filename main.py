@@ -1,3 +1,2 @@
-print('hello world!')
-
-# some changes
+def echo(text):
+    print(text)
